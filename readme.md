@@ -9,7 +9,7 @@ Features include:
  * Enhanced static crosshair, cyan blue, small footprint dot with transparent center for long range headshots
  * Mouse tweaks, default sensitivity set to 0.8
  * HUD tweaks, no view bobbing, show damage, etc
- * Knife easy switcher, knife bound to "q" by default, if using knife primary gets set to "q"
+ * Knife easy switcher, knife bound to "q" by default, when using knife primary weapon gets set to "q"
  * Scroll wheel bound to jump for ez bhop ez life
 
 Crosshair screenshot:
