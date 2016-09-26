@@ -15,3 +15,7 @@ Features include:
 Crosshair screenshot:
 
 ![Crosshair](https://wyha.gg/images/crosshair_regular.jpg "Crosshair")
+
+Zoomed:
+
+![Crosshair](https://wyha.gg/images/crosshair_zoomed.jpg "Crosshair")
