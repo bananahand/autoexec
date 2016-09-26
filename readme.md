@@ -14,4 +14,4 @@ Features include:
 
 Crosshair screenshot:
 
-![Crosshair](https://wyha.gg/images/crosshair.jpg"Crosshair")
+![Crosshair](https://wyha.gg/images/crosshair_regular.jpg "Crosshair")
