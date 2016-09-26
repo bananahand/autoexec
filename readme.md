@@ -6,7 +6,7 @@ Features include:
  * Network enhancements
  * Audio enhancements
  * Video enhancements 
- * Enhanced crosshair, high visibilty cyan blue, small footprint dot with transparent center for long range headshots, static
+ * Enhanced crosshair, cyan blue, small footprint dot with transparent center for long range headshots, static
  * Mouse tweaks, default sensitivity set to 0.8
  * HUD tweaks, no view bobbing, show damage, etc
  * Knife easy switcher, knife bound to "q" by default, if using knife primary gets set to "q"
