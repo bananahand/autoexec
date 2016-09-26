@@ -12,4 +12,6 @@ Features include:
  * Knife easy switcher, knife bound to "q" by default, if using knife primary gets set to "q"
  * Scroll wheel bound to jump for ez bhop ez life
 
+Crosshair screenshot:
 
+![Crosshair](https://wyha.gg/images/crosshair.jpg"Crosshair")
