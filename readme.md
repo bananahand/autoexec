@@ -13,8 +13,7 @@ Features include:
  * Scroll wheel bound to jump for ez bhop ez life
 
 Crosshair screenshot:
-
-![Crosshair](https://wyha.gg/images/crosshair_regular.jpg "Crosshair")
+https://wyha.gg/images/crosshair_regular.jpg
 
 Full screenshot:
-![Crosshair](https://wyha.gg/images/crosshair.jpg "Crosshair")
+https://wyha.gg/images/crosshair.jpg
